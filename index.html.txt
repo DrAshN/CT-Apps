@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Shiny Apps</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 20px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-size: 18px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Shiny Apps</h1>
+    <p>Choose an app to explore:</p>
+    <ul>
+        <li><a href="https://ctg-ashn.shinyapps.io/SwitcherWithRegressionApp/" target="_blank">Switcher & Regression App</a></li>
+        <li><a href="https://ctg-ashn.shinyapps.io/RegressionSimulatorApp/" target="_blank">Regression Simulator App</a></li>
+        <li><a href="https://ctg-ashn.shinyapps.io/RegressionApp/" target="_blank">Regression</a></li>
+    </ul>
+</body>
+</html>
